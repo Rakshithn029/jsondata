@@ -7,7 +7,7 @@
                 "":""}
     },
     {
-        "id":2
+        "id":2,
       "theme" : ["pkg:/images/image1.jpeg",
                  "pkg:/images/image2.jpeg",
                  "pkg:/images/image3.jpeg",
