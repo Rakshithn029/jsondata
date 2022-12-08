@@ -1,1 +1,15 @@
 
+{"settings": [
+    {
+      "about": {"name":"Roku TV",
+                  " ": "",
+                "":""},
+      "theme" : ["pkg:/images/image1.jpeg",
+                 "pkg:/images/image2.jpeg",
+                 "pkg:/images/image3.jpeg",
+                 "pkg:/images/image4.jpeg"]
+
+    }
+]
+     
+  }
